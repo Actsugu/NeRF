@@ -1,0 +1,7 @@
+name: torch-learning
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - pip
+prefix: C:\Users\Asahi\.conda\envs\torch-learning
